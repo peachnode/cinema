@@ -1,0 +1,22 @@
+content:
+- Overview of the basic program
+- Values and variables
+- Val variables
+- Standard output
+- Standard input with Java Scanner
+- Reading data with a readln
+- String basics
+- String templates
+- Boolean and logical operations
+- Integers in action
+- If expression
+- Repeating blocks
+- While loops
+- Equality
+- Ranges
+- Introduction to MutableList
+- For loop and ranges
+- When expression
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
